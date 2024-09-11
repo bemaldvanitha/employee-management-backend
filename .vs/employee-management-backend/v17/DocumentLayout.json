@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\test\\employee-app-backend\\employee-management-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84055674-0D5E-4158-85F6-62FADF4D4F0C}|employee-management-backend.csproj|d:\\test\\employee-app-backend\\employee-management-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84055674-0D5E-4158-85F6-62FADF4D4F0C}|employee-management-backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84055674-0D5E-4158-85F6-62FADF4D4F0C}|employee-management-backend.csproj|d:\\test\\employee-app-backend\\employee-management-backend\\repositories\\employee\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84055674-0D5E-4158-85F6-62FADF4D4F0C}|employee-management-backend.csproj|solutionrelative:repositories\\employee\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84055674-0D5E-4158-85F6-62FADF4D4F0C}|employee-management-backend.csproj|d:\\test\\employee-app-backend\\employee-management-backend\\models\\dtos\\employeedto\\getallemployeeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84055674-0D5E-4158-85F6-62FADF4D4F0C}|employee-management-backend.csproj|solutionrelative:models\\dtos\\employeedto\\getallemployeeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84055674-0D5E-4158-85F6-62FADF4D4F0C}|employee-management-backend.csproj|d:\\test\\employee-app-backend\\employee-management-backend\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84055674-0D5E-4158-85F6-62FADF4D4F0C}|employee-management-backend.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84055674-0D5E-4158-85F6-62FADF4D4F0C}|employee-management-backend.csproj|d:\\test\\employee-app-backend\\employee-management-backend\\repositories\\employee\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84055674-0D5E-4158-85F6-62FADF4D4F0C}|employee-management-backend.csproj|solutionrelative:repositories\\employee\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\test\\employee-app-backend\\employee-management-backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\test\\employee-app-backend\\employee-management-backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T16:48:57.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllEmployeeResponseDTO.cs",
+              "DocumentMoniker": "D:\\test\\employee-app-backend\\employee-management-backend\\Models\\DTOs\\EmployeeDTO\\GetAllEmployeeResponseDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\EmployeeDTO\\GetAllEmployeeResponseDTO.cs",
+              "ToolTip": "D:\\test\\employee-app-backend\\employee-management-backend\\Models\\DTOs\\EmployeeDTO\\GetAllEmployeeResponseDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\EmployeeDTO\\GetAllEmployeeResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:38:43.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\test\\employee-app-backend\\employee-management-backend\\Repositories\\Employee\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Employee\\EmployeeRepository.cs",
+              "ToolTip": "D:\\test\\employee-app-backend\\employee-management-backend\\Repositories\\Employee\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\Employee\\EmployeeRepository.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAJYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:17:24.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\test\\employee-app-backend\\employee-management-backend\\Repositories\\Employee\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Employee\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\test\\employee-app-backend\\employee-management-backend\\Repositories\\Employee\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\Employee\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:16:57.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\test\\employee-app-backend\\employee-management-backend\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\test\\employee-app-backend\\employee-management-backend\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T01:26:10.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
